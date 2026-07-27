@@ -84,6 +84,4 @@ it. Feel free to contribute.
 
 ## Antispasmodics
 
-Antispasmodics do not cure IBS, but they can relieve symptoms such as **gas, bloating, and abdominal pain**.
-
-They work by relaxing intestinal smooth muscle, primarily through **muscarinic receptor blockade**.
+Antispasmodics do not cure IBS, but they can relieve symptoms such as **gas, bloating, and abdominal pain**. They work by relaxing intestinal smooth muscle, primarily through **muscarinic receptor blockade**.
