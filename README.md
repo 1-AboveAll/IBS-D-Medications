@@ -80,7 +80,7 @@ it. Feel free to contribute.
 
 - **Saccharomyces boulardii:** A yeast used for prevention and treatment of antibiotic-associated diarrhea.
 
-- **Racecadotril** also known as acetorphan, is an antidiarrheal medication which acts as a peripheral enkephalinase inhibitor. It reduces the secretion of water and electrolytes into the intestine.
+- **Racecadotril:** also known as acetorphan, is an antidiarrheal medication which acts as a peripheral enkephalinase inhibitor. It reduces the secretion of water and electrolytes into the intestine.
 
 ---
 
